@@ -4,12 +4,25 @@ h1 {
 	text-decoration: overline underline;
 }
 
+p {
+	margin-top: 50px;
+	font-size: 10px;
+}
+
 li {
 	font-weight: bold;
 	
 }
 
+.clickable {
+	cursor: pointer;
+	color: #5b6430;
+}
 
+.frogface {
+	display: none;
+	cursor: pointer;
+}
 
 .cat-talk {
 	text-align: center;
